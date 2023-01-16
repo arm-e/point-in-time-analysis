@@ -34,13 +34,18 @@ it into day-to-day view of the data.
 - Ticket closed: if the ticket closed (0/1) -- If initialized contact && open contact are 0, then this should be 1 and vice-versa
 - Days to close: days to close the ticket -- If initialized contact && open contact are 0, then this should be >= 1, otherwise None
 
-<!-- # Dashboarding
+# Dashboarding
 
 Using the point-in-time oriented data, we can begin to generate dashboards to visualize the time it takes for departments and employees to complete tickets at different time periods.
 
-![alt]() 
-![alt]() -->
+YouTube videos of dashboards (for vid controls):
+- Overview: https://youtu.be/TW-MIFdJ0CQ
+- Employees: https://youtu.be/uDGv2lcI66I
 
+![overview](https://user-images.githubusercontent.com/121126300/212743444-762dc62e-516f-4d08-ab05-c7346c1d67f8.gif)
+
+
+![departments](https://user-images.githubusercontent.com/121126300/212741289-a111b0bc-3e2a-490b-994e-f3ed9d9d4324.gif)
 
 # Directories
 
